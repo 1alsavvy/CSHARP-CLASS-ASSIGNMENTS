@@ -1,0 +1,6 @@
+c:\users\23354\documents\visual studio 2012\Projects\Assignment Two\Assignment Two\bin\Debug\Assignment Two.exe.config
+c:\users\23354\documents\visual studio 2012\Projects\Assignment Two\Assignment Two\bin\Debug\Assignment Two.exe
+c:\users\23354\documents\visual studio 2012\Projects\Assignment Two\Assignment Two\bin\Debug\Assignment Two.pdb
+c:\users\23354\documents\visual studio 2012\Projects\Assignment Two\Assignment Two\obj\Debug\Assignment Two.csprojResolveAssemblyReference.cache
+c:\users\23354\documents\visual studio 2012\Projects\Assignment Two\Assignment Two\obj\Debug\Assignment Two.exe
+c:\users\23354\documents\visual studio 2012\Projects\Assignment Two\Assignment Two\obj\Debug\Assignment Two.pdb

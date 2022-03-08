@@ -1,0 +1,6 @@
+c:\users\23354\documents\visual studio 2012\Projects\csharp class 27feb\csharp class 27feb\bin\Debug\csharp class 27feb.exe.config
+c:\users\23354\documents\visual studio 2012\Projects\csharp class 27feb\csharp class 27feb\bin\Debug\csharp class 27feb.exe
+c:\users\23354\documents\visual studio 2012\Projects\csharp class 27feb\csharp class 27feb\bin\Debug\csharp class 27feb.pdb
+c:\users\23354\documents\visual studio 2012\Projects\csharp class 27feb\csharp class 27feb\obj\Debug\csharp class 27feb.csprojResolveAssemblyReference.cache
+c:\users\23354\documents\visual studio 2012\Projects\csharp class 27feb\csharp class 27feb\obj\Debug\csharp class 27feb.exe
+c:\users\23354\documents\visual studio 2012\Projects\csharp class 27feb\csharp class 27feb\obj\Debug\csharp class 27feb.pdb

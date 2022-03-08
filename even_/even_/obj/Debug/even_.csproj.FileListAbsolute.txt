@@ -1,0 +1,6 @@
+c:\users\23354\documents\visual studio 2012\Projects\even_\even_\bin\Debug\even_.exe.config
+c:\users\23354\documents\visual studio 2012\Projects\even_\even_\bin\Debug\even_.exe
+c:\users\23354\documents\visual studio 2012\Projects\even_\even_\bin\Debug\even_.pdb
+c:\users\23354\documents\visual studio 2012\Projects\even_\even_\obj\Debug\even_.csprojResolveAssemblyReference.cache
+c:\users\23354\documents\visual studio 2012\Projects\even_\even_\obj\Debug\even_.exe
+c:\users\23354\documents\visual studio 2012\Projects\even_\even_\obj\Debug\even_.pdb

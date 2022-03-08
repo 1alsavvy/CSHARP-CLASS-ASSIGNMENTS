@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic_Operation", "Arithmetic_Operation\Arithmetic_Operation.csproj", "{15A3C950-9172-4CE5-84CC-4BCB80989E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A3C950-9172-4CE5-84CC-4BCB80989E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A3C950-9172-4CE5-84CC-4BCB80989E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A3C950-9172-4CE5-84CC-4BCB80989E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A3C950-9172-4CE5-84CC-4BCB80989E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

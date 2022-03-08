@@ -1,0 +1,6 @@
+c:\users\23354\documents\visual studio 2012\Projects\cls5\cls5\bin\Debug\cls5.exe.config
+c:\users\23354\documents\visual studio 2012\Projects\cls5\cls5\obj\Debug\cls5.csprojResolveAssemblyReference.cache
+c:\users\23354\documents\visual studio 2012\Projects\cls5\cls5\bin\Debug\cls5.exe
+c:\users\23354\documents\visual studio 2012\Projects\cls5\cls5\bin\Debug\cls5.pdb
+c:\users\23354\documents\visual studio 2012\Projects\cls5\cls5\obj\Debug\cls5.exe
+c:\users\23354\documents\visual studio 2012\Projects\cls5\cls5\obj\Debug\cls5.pdb

@@ -1,0 +1,6 @@
+c:\users\23354\documents\visual studio 2012\Projects\momo\momo\bin\Debug\momo.exe.config
+c:\users\23354\documents\visual studio 2012\Projects\momo\momo\bin\Debug\momo.exe
+c:\users\23354\documents\visual studio 2012\Projects\momo\momo\bin\Debug\momo.pdb
+c:\users\23354\documents\visual studio 2012\Projects\momo\momo\obj\Debug\momo.csprojResolveAssemblyReference.cache
+c:\users\23354\documents\visual studio 2012\Projects\momo\momo\obj\Debug\momo.exe
+c:\users\23354\documents\visual studio 2012\Projects\momo\momo\obj\Debug\momo.pdb
